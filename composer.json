@@ -7,6 +7,11 @@
             "email": "ush.maksim@gmail.com"
         }
     ],
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "require": {
         "tightenco/collect": "^8.34"
     }
