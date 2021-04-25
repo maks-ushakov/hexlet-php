@@ -1,2 +1,5 @@
 # hexlet-php
-Study project in Hexlet
+
+It is my first project on Hexlet
+
+Мой первый проект на Хекслете
