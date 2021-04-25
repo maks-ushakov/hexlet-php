@@ -7,5 +7,7 @@
             "email": "ush.maksim@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
