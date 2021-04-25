@@ -1,0 +1,11 @@
+{
+    "name": "maks-ushakov/hexlet-php",
+    "description": "First hexlet PHP project",
+    "authors": [
+        {
+            "name": "maks-ushakov",
+            "email": "ush.maksim@gmail.com"
+        }
+    ],
+    "require": {}
+}
